@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="action" name="Lil' Peepz" cc_theme_id="cc2">
-  <background id="ncc_medium.swf" name="Medium Horizoon" enable="N" default="N" is_premium="N" aid="10712" money="0" sharing="0"/>
-  <background id="ncc_low.swf" name="Low Horizoon" enable="N" default="N" is_premium="N" aid="10800" money="0" sharing="0"/>
+  <background id="ncc_medium.swf" name="Medium Horizon" enable="N" default="N" is_premium="N" aid="10712" money="0" sharing="0"/>
+  <background id="ncc_low.swf" name="Low Horizon" enable="N" default="N" is_premium="N" aid="10800" money="0" sharing="0"/>
   <compositebg id="cbg_living_rm01" name="Living room" enable="N" default="N" thumb="living_rm01.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="10713">
   <bg id="cbg_living_rm01_BG43" index="0">
     <file>action.ncc_medium.swf</file>
